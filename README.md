@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello Everyone! 👋 🤓
 
+I'm **Oscar Rolando Gamboa Acho**, a **Systems Engineer** working as a  **Backend Developer over the last years** 🚀 from Bolivia :bolivia: 🙍🏽‍♂️, also im a leader of my own developer community called **DevLat**.
+
+**DevLat** has a main purpose, to share information and resources for free just in order to help other developers 🤓 to have enough resources for their projects :computer: and investigation :mag:.
 <!--
 **DevLatBo/DevLatBo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
