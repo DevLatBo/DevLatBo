@@ -4,10 +4,8 @@ I'm **Oscar Rolando Gamboa Acho**, a **Systems Engineer** working as a  **Backen
 
 **DevLat** has a main purpose, to share information and resources for free just in order to help other developers 🤓 to have enough resources for their projects :computer: and investigation :mag:.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 **My background:**
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 - :books: I've studied in the "Universidad Mayor De San Simon" in the career System Engineering in Cochabamba Bolivia (2010 - 2015)
 - :scroll: Degree in systems engineering in 2016.
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
