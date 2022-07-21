@@ -4,7 +4,7 @@ I'm **Oscar Rolando Gamboa Acho**, a **Systems Engineer** working as a  **Backen
 
 **DevLat** has a main purpose, to share information and resources for free just in order to help other developers 🤓 to have enough resources for their projects :computer: and investigation :mag:.
 
-<img align="right" alt="GIF" width="450px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 **My background:**
 
