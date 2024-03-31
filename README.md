@@ -1,26 +1,23 @@
 ### Hello Everyone! 👋 🤓
 
-I'm **Oscar Rolando Gamboa Acho**, a **Systems Engineer** working as a  **Backend Developer over the 7 last years** 🚀 from Bolivia :bolivia: 🙍🏽‍♂️, also im a leader of my own developer community called **DevLat**.
+I'm **Oscar Rolando Gamboa Acho**, a  **Backend Developer over the 7 last years** 🚀 from Cochabamba, Bolivia :bolivia: 🙍🏽‍♂️, also im a leader of my own developer community called **DevLat**.
 
-**DevLat** has a main purpose, to share information and resources for free just in order to help other developers 🤓 to have enough resources for their projects :computer: and investigation :mag:.
+**DevLat** has a main purpose, to share information and resources just in order to help other developers 🤓 for their projects :computer:.
 
 **My background:**
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-- :books: I studied at the "Universidad Mayor De San Simon" in the career System Engineering in Cochabamba - Bolivia (2010 - 2015)
-- :scroll: Degree in systems engineering in 2016.
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
-- :shopping_cart: Backend Developer with Magento 2 over the last years.
-- :atom_symbol: Frontend Developer with my personal projects in focus for improving JS skills.
-- :robot: I love to experiment with Arduino and apply new concepts in development.
-- 💼 Currently i'm working in Acid Labs. :chile:
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via oskr.cbba2010@gmail.com to reach me.
+- 📚 I studied at the "Universidad Mayor De San Simon" in the career System Engineering in Cochabamba - Bolivia (2010 - 2015)
+- 👨🏽‍🎓 Degree in systems engineering in 2016.
+- 💡 Always focused on improving my skills and learning new things.
+- 🖥 Fullstack Developer working with Magento 2.
+- 💼 Currently i'm working in Balloon Group 🇦🇷.
+- 💬 Ask me about anything, I am happy to help.
+- ✉️ Please email via oskr.cbba2010@gmail.com to reach me.
 
 **Languages and Tools:**  
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
