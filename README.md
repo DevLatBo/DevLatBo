@@ -12,7 +12,7 @@ I'm **Oscar Rolando Gamboa Acho**, a  **Backend Developer over the 7 last years*
 - 🖥 Fullstack Developer working with Magento 2.
 - 💼 Currently i'm working in Balloon Group 🇦🇷.
 - 💬 Ask me about anything, I am happy to help.
-- ✉️ Please email via oskr.cbba2010@gmail.com to reach me.
+- ✉️ Please send me an email at oskr.cbba2010@gmail.com to reach me.
 
 **Languages and Tools:**  
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
