@@ -1,15 +1,39 @@
 ### Hello Everyone! 👋 🤓
 
-I'm **Oscar Rolando Gamboa Acho**, a  **backend developer with 8 years of experience** 🚀 I am from Cochabamba, Bolivia 🇧🇴, and I am always focused on improving and maintaining systems 🤓 🖥️.
+I'm **Oscar Rolando Gamboa Acho**, a **Backend Developer with 9 years of experience** 🚀  
+From **Cochabamba, Bolivia** 🇧🇴, I’m passionate about improving and maintaining robust systems 🤓🖥️.
 
-**My background:**
+**About Me:**
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-- 📚 I studied at the 'Universidad Mayor de San Simón' in the Systems Engineering program from 2010 to 2016- 👨🏽‍🎓 Degree in systems engineering in 2016.
-- 💡 Love to make contributions for software development.
-- 🖥 Fullstack Developer working with Magento 2.
-- 💼 Currently i'm working in Customer Paradigm 🇺🇸.
-- 💬 Ask me about anything, I am happy to help.
-- ✉️ Send me an email at oskr.cbba2010@gmail.com to get in touch with me.
+
+- 🎓 **Education:**  
+  Studied *Systems Engineering* at **Universidad Mayor de San Simón** (2010–2016)  
+  Obtained my degree in **2016** 👨🏽‍🎓  
+
+- 💡 **Passion:**  
+  Contributing to innovative software development projects.
+
+- 🖥 **Expertise:**  
+  Fullstack Development with a strong focus on **Magento 2**.
+
+- 💼 **Current Role:**  
+  Working at **Customer Paradigm** (United States 🇺🇸).
+
+- 💬 **Let’s Talk:**  
+  I’m always happy to share knowledge and help others.
+
+- ✉️ **Contact:**  
+  [oskr.cbba2010@gmail.com](mailto:oskr.cbba2010@gmail.com)
+
+---
+**🔧 Tech Stack**
+
+- Backend: PHP, Magento 2, Laravel  
+- Frontend: JavaScript, HTML5, CSS3, React  
+- Databases: MySQL, PostgreSQL  
+- Tools: Git, Docker, Linux
+
+---
 
 **Languages and Tools:**  
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -17,7 +41,6 @@ I'm **Oscar Rolando Gamboa Acho**, a  **backend developer with 8 years of experi
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
